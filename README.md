@@ -66,7 +66,7 @@ I am currently working on deploying my Retrieval-Augmented Generation (RAG) syst
 ---
 
 <h1>
-<img src="https://raw.githubusercontent.com/anythingcodes/slack-emoji-for-techies/gh-pages/emoji/partyparrot.gif" width="40"/> Featured Projects
+## <img src="https://raw.githubusercontent.com/anythingcodes/slack-emoji-for-techies/gh-pages/emoji/partyparrot.gif" width="40"/> Featured Projects
 </h1>
 <table>
 <tr>
