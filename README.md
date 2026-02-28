@@ -1,4 +1,4 @@
-<img width="1185" height="120" alt="image" src="https://github.com/user-attachments/assets/6258599e-f535-482c-bccd-8f6347af1e18" /># <img src="https://raw.githubusercontent.com/anythingcodes/slack-emoji-for-techies/gh-pages/emoji/ahhh.png" width="40"/> ME
+src="https://raw.githubusercontent.com/anythingcodes/slack-emoji-for-techies/gh-pages/emoji/ahhh.png" width="40"/> ME
 
 
 ## <img src="https://raw.githubusercontent.com/anythingcodes/slack-emoji-for-techies/gh-pages/emoji/bmo.gif" width="40"/> Introduction
