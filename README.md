@@ -66,10 +66,12 @@ I am currently working on deploying my Retrieval-Augmented Generation (RAG) syst
 ---
 
 
-## <img src="https://raw.githubusercontent.com/anythingcodes/slack-emoji-for-techies/gh-pages/emoji/partyparrot.gif" width="40"/> Featured Projects
+## <img src="https://raw.githubusercontent.com/anythingcodes/slack-emoji-for-techies/gh-pages/emoji/partyparrot.gif" width="36"/> Featured Projects
+
 <table>
 <tr>
-<td width="50%" valign="top">
+
+<td width="50%" valign="top" style="padding-right:20px;">
 
 ### <img src="https://raw.githubusercontent.com/anythingcodes/slack-emoji-for-techies/gh-pages/emoji/mic-drop.png" width="28"/> Real-Time AI Voice Agent
 
@@ -77,13 +79,14 @@ Built a real-time voice pipeline using **LiveKit, Google STT, Vertex AI LLM, and
 
 </td>
 
-<td width="50%" valign="top">
+<td width="50%" valign="top" style="padding-left:20px;">
 
-### <img src="https://raw.githubusercontent.com/anythingcodes/slack-emoji-for-techies/gh-pages/emoji/chrome-dino.png" width="38"/> Retrieval-Augmented Generation (RAG) System
+### <img src="https://raw.githubusercontent.com/anythingcodes/slack-emoji-for-techies/gh-pages/emoji/chrome-dino.png" width="28"/> Retrieval-Augmented Generation (RAG) System
 
 Designed a **document-based RAG pipeline** that ingests, chunks, embeds, and retrieves documents using semantic search to improve response accuracy. Built backend APIs to handle document ingestion, embedding generation, and query-based retrieval for LLM-powered question answering.
 
 </td>
+
 </tr>
 </table>
 
