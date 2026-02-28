@@ -62,6 +62,13 @@ I am a Computer Science student at MIT World Peace University with hands-on expe
 
 ---
 
+# 🚀 Featured Project
+
+### 🎙 Real-Time AI Voice Agent
+Built a real-time voice pipeline using **LiveKit, Google STT, Vertex AI LLM, and TTS**, enabling fully voice-driven conversational interactions with **end-to-end latency under 3 seconds**. The system streams audio through **STT → LLM → TTS** and handles authentication, event-driven processing, and real-time responses.
+
+---
+
 # 📊 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=Abhirampatil&theme=aura_dark&hide_border=true&include_all_commits=true&count_private=true)
@@ -71,5 +78,3 @@ I am a Computer Science student at MIT World Peace University with hands-on expe
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhirampatil&theme=aura_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
