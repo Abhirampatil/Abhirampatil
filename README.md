@@ -8,7 +8,7 @@ Computer Science undergraduate with a strong interest in backend engineering, AI
 ## ✨ About Me
 I am a Computer Science student at MIT World Peace University with hands-on experience in backend development and AI-driven applications. I specialize in building systems involving FastAPI, Flask, LLM integrations, and real-time streaming pipelines. My projects include developing a real-time AI voice agent using LiveKit and Google Cloud services, and designing a document-based Retrieval-Augmented Generation (RAG) system for semantic search and question answering. I enjoy working on technically challenging problems involving distributed systems, real-time communication, and AI-powered backend architectures.
 
-## 🔭 Currently Working On
+# <img src="https://raw.githubusercontent.com/anythingcodes/slack-emoji-for-techies/gh-pages/emoji/nyancat.gif" width="30"/> Currently Working On
 I am currently working on deploying my Retrieval-Augmented Generation (RAG) system and transitioning it from a development prototype into a production-ready application. My focus is on optimizing the document ingestion pipeline, embedding generation, and semantic retrieval while also improving the user interface to make interactions with the system more intuitive and responsive. Through this process, I am gaining deeper experience in backend deployment, API design, and building practical AI-powered applications.
 
 ---
@@ -65,12 +65,12 @@ I am currently working on deploying my Retrieval-Augmented Generation (RAG) syst
 
 ---
 
-# 🚀 Featured Projects
+# <img src="https://raw.githubusercontent.com/anythingcodes/slack-emoji-for-techies/gh-pages/emoji/partyparrot.gif" width="30"/> Featured Projects
 
-### 🎙 Real-Time AI Voice Agent
+### <img src="https://raw.githubusercontent.com/anythingcodes/slack-emoji-for-techies/gh-pages/emoji/mic-drop.png" width="22"/> Real-Time AI Voice Agent
 Built a real-time voice pipeline using **LiveKit, Google STT, Vertex AI LLM, and TTS**, enabling fully voice-driven conversational interactions with **end-to-end latency under 3 seconds**. The system streams audio through **STT → LLM → TTS** and handles authentication, event-driven processing, and real-time responses.
 
-### 📚 Retrieval-Augmented Generation (RAG) System
+### <img src="https://raw.githubusercontent.com/anythingcodes/slack-emoji-for-techies/gh-pages/emoji/chrome-dino.png" width="22"/> Retrieval-Augmented Generation (RAG) System
 Designed a **document-based RAG pipeline** that ingests, chunks, embeds, and retrieves documents using semantic search to improve response accuracy. Built backend APIs to handle document ingestion, embedding generation, and query-based retrieval for LLM-powered question answering.
 
 ---------------------------------
