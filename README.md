@@ -65,7 +65,7 @@ I am currently working on deploying my Retrieval-Augmented Generation (RAG) syst
 
 ---
 
-<img src="https://raw.githubusercontent.com/anythingcodes/slack-emoji-for-techies/gh-pages/emoji/partyparrot.gif" width="40"/> Featured Projects
+# <img src="https://raw.githubusercontent.com/anythingcodes/slack-emoji-for-techies/gh-pages/emoji/partyparrot.gif" width="40"/> Featured Projects
 
 <table>
 <tr>
@@ -86,7 +86,6 @@ Designed a **document-based RAG pipeline** that ingests, chunks, embeds, and ret
 </td>
 </tr>
 </table>
-
 
 
 
