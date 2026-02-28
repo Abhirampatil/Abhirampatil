@@ -71,7 +71,7 @@ I am currently working on deploying my Retrieval-Augmented Generation (RAG) syst
 <p align="center">
 
 <a href="https://github.com/Abhirampatil/YOUR-VOICE-AGENT-REPO">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Abhirampatil&repo=YOUR-VOICE-AGENT-REPO&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Abhirampatil&repo=https://github.com/Abhirampatil/AI-Agent.git&theme=tokyonight"/>
 </a>
 
 <a href="https://github.com/Abhirampatil/YOUR-RAG-REPO">
