@@ -71,11 +71,11 @@ I am currently working on deploying my Retrieval-Augmented Generation (RAG) syst
 <p align="center">
 
 <a href="https://github.com/Abhirampatil/YOUR-VOICE-AGENT-REPO">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Abhirampatil&repo=https://github.com/Abhirampatil/AI-Agent.git&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Abhirampatil&repo=AI-Agent&theme=tokyonight"/>
 </a>
 
 <a href="https://github.com/Abhirampatil/YOUR-RAG-REPO">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Abhirampatil&repo=YOUR-RAG-REPO&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Abhirampatil&repo=cloud-campus&theme=tokyonight"/>
 </a>
 
 </p>
