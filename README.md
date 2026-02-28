@@ -81,7 +81,7 @@ Built a real-time voice pipeline using **LiveKit, Google STT, Vertex AI LLM, and
 
 <td width="50%" valign="top" style="padding-left:20px;">
 
-### <img src="https://raw.githubusercontent.com/anythingcodes/slack-emoji-for-techies/gh-pages/emoji/chrome-dino.png" width="28"/> Retrieval-Augmented Generation (RAG) System
+### <img src="https://raw.githubusercontent.com/anythingcodes/slack-emoji-for-techies/gh-pages/emoji/chrome-dino.png" width="28"/> Retrieval-Augmented Generation (RAG)
 
 Designed a **document-based RAG pipeline** that ingests, chunks, embeds, and retrieves documents using semantic search to improve response accuracy. Built backend APIs to handle document ingestion, embedding generation, and query-based retrieval for LLM-powered question answering.
 
