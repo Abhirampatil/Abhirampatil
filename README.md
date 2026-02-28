@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/anythingcodes/slack-emoji-for-techies/gh-pages/emoji/ahhh.png" width="40"/> About Me
+# <img src="https://raw.githubusercontent.com/anythingcodes/slack-emoji-for-techies/gh-pages/emoji/ahhh.png" width="40"/> ME
 
 
 ## <img src="https://raw.githubusercontent.com/anythingcodes/slack-emoji-for-techies/gh-pages/emoji/blob-cat.png" width="28"/> Introduction
