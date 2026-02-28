@@ -73,14 +73,8 @@ Built a real-time voice pipeline using **LiveKit, Google STT, Vertex AI LLM, and
 ### 📚 Retrieval-Augmented Generation (RAG) System
 Designed a **document-based RAG pipeline** that ingests, chunks, embeds, and retrieves documents using semantic search to improve response accuracy. Built backend APIs to handle document ingestion, embedding generation, and query-based retrieval for LLM-powered question answering.
 
----
+---------------------------------
 
-# 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Abhirampatil&theme=aura_dark&hide_border=true&include_all_commits=true&count_private=true)
 
-![](https://nirzak-streak-stats.vercel.app/?user=Abhirampatil&theme=aura_dark&hide_border=true)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhirampatil&theme=aura_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
----
