@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/anythingcodes/slack-emoji-for-techies/gh-pages/emoji/ahhh.png" width="40"/> ME
+<img width="1185" height="120" alt="image" src="https://github.com/user-attachments/assets/6258599e-f535-482c-bccd-8f6347af1e18" /># <img src="https://raw.githubusercontent.com/anythingcodes/slack-emoji-for-techies/gh-pages/emoji/ahhh.png" width="40"/> ME
 
 
 ## <img src="https://raw.githubusercontent.com/anythingcodes/slack-emoji-for-techies/gh-pages/emoji/bmo.gif" width="40"/> Introduction
@@ -71,11 +71,11 @@ I am currently working on deploying my Retrieval-Augmented Generation (RAG) syst
 <p align="center">
 
 <a href="https://github.com/Abhirampatil/AI-Agent">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Abhirampatil&repo=AI-Agent&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Abhirampatil&repo=AI-Agent&theme=tokyonight&cache_seconds=1800"/>
 </a>
 
 <a href="https://github.com/Abhirampatil/cloud-campus">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Abhirampatil&repo=cloud-campus&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Abhirampatil&repo=cloud-campus&theme=tokyonight&cache_seconds=1800"/>
 </a>
 
 </p>
