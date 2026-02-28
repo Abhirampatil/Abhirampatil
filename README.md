@@ -89,5 +89,6 @@ Designed a **document-based RAG pipeline** that ingests, chunks, embeds, and ret
 </tr>
 </table>
 
+Emojis taken from: https://github.com/anythingcodes/slack-emoji-for-techies
 
 
