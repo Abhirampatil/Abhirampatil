@@ -70,11 +70,11 @@ I am currently working on deploying my Retrieval-Augmented Generation (RAG) syst
 
 <p align="center">
 
-<a href="https://github.com/Abhirampatil/https://github.com/Abhirampatil/AI-Agent">
+<a href="https://github.com/Abhirampatil/AI-Agent">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abhirampatil&repo=AI-Agent&theme=tokyonight"/>
 </a>
 
-<a href="https://github.com/Abhirampatil/https://github.com/Abhirampatil/cloud-campus">
+<a href="https://github.com/Abhirampatil/cloud-campus">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abhirampatil&repo=cloud-campus&theme=tokyonight"/>
 </a>
 
