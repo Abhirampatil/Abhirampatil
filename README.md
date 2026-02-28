@@ -67,17 +67,27 @@ I am currently working on deploying my Retrieval-Augmented Generation (RAG) syst
 
 ## <img src="https://raw.githubusercontent.com/anythingcodes/slack-emoji-for-techies/gh-pages/emoji/partyparrot.gif" width="36"/> Featured Projects
 
-<p align="center">
+<table>
+<tr>
 
-<a href="https://github.com/Abhirampatil/AI-Agent">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Abhirampatil&repo=AI-Agent&theme=tokyonight&cache_seconds=1800"/>
-</a>
+<td width="50%" valign="top" style="padding-right:20px;">
 
-<a href="https://github.com/Abhirampatil/cloud-campus">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Abhirampatil&repo=cloud-campus&theme=tokyonight&cache_seconds=1800"/>
-</a>
+### <img src="https://raw.githubusercontent.com/anythingcodes/slack-emoji-for-techies/gh-pages/emoji/mic-drop.png" width="28"/> Real-Time AI Voice Agent
 
-</p>
+Built a real-time voice pipeline using **LiveKit, Google STT, Vertex AI LLM, and TTS**, enabling fully voice-driven conversational interactions with **end-to-end latency under 3 seconds**. The system streams audio through **STT → LLM → TTS** and handles authentication, event-driven processing, and real-time responses.
+
+</td>
+
+<td width="50%" valign="top" style="padding-left:20px;">
+
+### <img src="https://raw.githubusercontent.com/anythingcodes/slack-emoji-for-techies/gh-pages/emoji/chrome-dino.png" width="28"/> Retrieval-Augmented Generation (RAG)
+
+Designed a **document-based RAG pipeline** that ingests, chunks, embeds, and retrieves documents using semantic search to improve response accuracy. Built backend APIs to handle document ingestion, embedding generation, and query-based retrieval for LLM-powered question answering.
+
+</td>
+
+</tr>
+</table>
 
 
 
