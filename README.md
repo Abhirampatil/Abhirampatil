@@ -62,10 +62,13 @@ I am a Computer Science student at MIT World Peace University with hands-on expe
 
 ---
 
-# 🚀 Featured Project
+# 🚀 Featured Projects
 
 ### 🎙 Real-Time AI Voice Agent
 Built a real-time voice pipeline using **LiveKit, Google STT, Vertex AI LLM, and TTS**, enabling fully voice-driven conversational interactions with **end-to-end latency under 3 seconds**. The system streams audio through **STT → LLM → TTS** and handles authentication, event-driven processing, and real-time responses.
+
+### 📚 Retrieval-Augmented Generation (RAG) System
+Designed a **document-based RAG pipeline** that ingests, chunks, embeds, and retrieves documents using semantic search to improve response accuracy. Built backend APIs to handle document ingestion, embedding generation, and query-based retrieval for LLM-powered question answering.
 
 ---
 
