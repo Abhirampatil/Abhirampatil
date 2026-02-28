@@ -1,11 +1,11 @@
 # <img src="https://raw.githubusercontent.com/anythingcodes/slack-emoji-for-techies/gh-pages/emoji/ahhh.png" width="40"/> ME
 
 
-## <img src="https://raw.githubusercontent.com/anythingcodes/slack-emoji-for-techies/gh-pages/emoji/bmo.gif" width="28"/> Introduction
+## <img src="https://raw.githubusercontent.com/anythingcodes/slack-emoji-for-techies/gh-pages/emoji/bmo.gif" width="40"/> Introduction
 Computer Science undergraduate with a strong interest in backend engineering, AI systems, and real-time applications. Experienced in building scalable APIs, AI-powered pipelines, and real-time voice systems using technologies such as FastAPI, Python, and WebRTC. Passionate about developing intelligent systems using LLMs, RAG pipelines, and modern backend architectures.
 
 
-## <img src="https://raw.githubusercontent.com/anythingcodes/slack-emoji-for-techies/gh-pages/emoji/blob-cat.png" width="28"/> About Me
+## <img src="https://raw.githubusercontent.com/anythingcodes/slack-emoji-for-techies/gh-pages/emoji/blob-cat.png" width="40"/> About Me
 I am a Computer Science student at MIT World Peace University with hands-on experience in backend development and AI-driven applications. I specialize in building systems involving FastAPI, Flask, LLM integrations, and real-time streaming pipelines. My projects include developing a real-time AI voice agent using LiveKit and Google Cloud services, and designing a document-based Retrieval-Augmented Generation (RAG) system for semantic search and question answering. I enjoy working on technically challenging problems involving distributed systems, real-time communication, and AI-powered backend architectures.
 
 # <img src="https://raw.githubusercontent.com/anythingcodes/slack-emoji-for-techies/gh-pages/emoji/nyancat.gif" width="40"/> Currently Working On
