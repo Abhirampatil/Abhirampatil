@@ -1,4 +1,4 @@
-# 💫 About Me
+# <img src="https://raw.githubusercontent.com/anythingcodes/slack-emoji-for-techies/master/emojis/aah.png" width="30"/> About Me
 
 ## 🧭 Introduction
 Computer Science undergraduate with a strong interest in backend engineering, AI systems, and real-time applications. Experienced in building scalable APIs, AI-powered pipelines, and real-time voice systems using technologies such as FastAPI, Python, and WebRTC. Passionate about developing intelligent systems using LLMs, RAG pipelines, and modern backend architectures.
