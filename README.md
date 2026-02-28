@@ -67,25 +67,27 @@ I am currently working on deploying my Retrieval-Augmented Generation (RAG) syst
 
 # <img src="https://raw.githubusercontent.com/anythingcodes/slack-emoji-for-techies/gh-pages/emoji/partyparrot.gif" width="40"/> Featured Projects
 
-<div style="display:flex; gap:40px;">
-
-<div style="flex:1; padding-right:20px; border-right:1px solid #444;">
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### <img src="https://raw.githubusercontent.com/anythingcodes/slack-emoji-for-techies/gh-pages/emoji/mic-drop.png" width="28"/> Real-Time AI Voice Agent
 
 Built a real-time voice pipeline using **LiveKit, Google STT, Vertex AI LLM, and TTS**, enabling fully voice-driven conversational interactions with **end-to-end latency under 3 seconds**. The system streams audio through **STT → LLM → TTS** and handles authentication, event-driven processing, and real-time responses.
 
-</div>
+</td>
 
-<div style="flex:1; padding-left:20px;">
+<td width="1" bgcolor="#444"></td>
+
+<td width="50%" valign="top">
 
 ### <img src="https://raw.githubusercontent.com/anythingcodes/slack-emoji-for-techies/gh-pages/emoji/chrome-dino.png" width="38"/> Retrieval-Augmented Generation (RAG) System
 
 Designed a **document-based RAG pipeline** that ingests, chunks, embeds, and retrieves documents using semantic search to improve response accuracy. Built backend APIs to handle document ingestion, embedding generation, and query-based retrieval for LLM-powered question answering.
 
-</div>
-
-</div>
+</td>
+</tr>
+</table>
 
 
 
