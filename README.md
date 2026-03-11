@@ -1,44 +1,53 @@
 <div align="center">
 
-# hey, I'm Abhiram 👾
+<img src="https://raw.githubusercontent.com/anythingcodes/slack-emoji-for-techies/gh-pages/emoji/ahhh.png" width="48"/>
 
-**CS undergrad** who builds backends, breaks things, fixes them, and occasionally makes computers talk back.
+# hey, I'm Abhiram
+
+CS undergrad who builds backends, breaks things, fixes them,
+and occasionally makes computers talk back in real time.
 
 I live at the intersection of **backend engineering** and **AI systems** —
 LLMs, RAG pipelines, real-time voice, distributed systems, the works.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhiram-codes)
 [![Email](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:abhirampatil2005@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=vercel&logoColor=white)](#)
 
 </div>
 
 ---
 
-## 🧑‍💻 who am i
+## <img src="https://raw.githubusercontent.com/anythingcodes/slack-emoji-for-techies/gh-pages/emoji/bmo.gif" width="36"/> who am i
 
 ```python
 abhiram = {
-    "university": "MIT World Peace University",
-    "degree":     "B.Tech Computer Science",
-    "focus":      ["Backend Engineering", "AI Systems", "Real-Time Applications"],
-    "currently":  "Shipping a RAG system to production 🚢",
-    "ask_me_about": ["FastAPI", "LLM integrations", "WebRTC", "voice pipelines"],
-    "fun_fact":   "I made a voice agent that responds in under 3 seconds 🎙️",
+    "university":    "MIT World Peace University",
+    "degree":        "B.Tech Computer Science",
+    "focus":         ["Backend Engineering", "AI Systems", "Real-Time Applications"],
+    "currently":     "Shipping a RAG system to production 🚢",
+    "ask_me_about":  ["FastAPI", "LLM integrations", "WebRTC", "voice pipelines"],
+    "fun_fact":      "I built a voice agent that responds in under 3 seconds 🎙️",
 }
 ```
 
 ---
 
-## 🔥 what i'm building right now
+## <img src="https://raw.githubusercontent.com/anythingcodes/slack-emoji-for-techies/gh-pages/emoji/partyparrot.gif" width="32"/> what i'm working on
 
-Taking my **RAG prototype to production** — tightening the document ingestion pipeline, optimizing embeddings, and making the semantic retrieval fast enough that nobody notices the AI is thinking.
+Taking my **RAG prototype to production** — tightening the document ingestion pipeline, optimizing embeddings, and making semantic retrieval fast enough that nobody notices the AI is thinking.
 
-Also exploring smarter chunking strategies and hybrid search (dense + sparse vectors) to push retrieval accuracy further.
+Also exploring smarter chunking strategies and hybrid search (dense + sparse vectors) to push retrieval accuracy further. Ships soon™.
 
 ---
 
-## 🛠️ tech stack
+## 🌐 find me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhiram-codes)
+[![Email](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:abhirampatil2005@gmail.com)
+
+---
+
+## 💻 tech stack
 
 **Languages**
 
@@ -90,30 +99,30 @@ Also exploring smarter chunking strategies and hybrid search (dense + sparse vec
 
 ---
 
-## 🚀 featured projects
+## <img src="https://raw.githubusercontent.com/anythingcodes/slack-emoji-for-techies/gh-pages/emoji/partyparrot.gif" width="32"/> featured projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🎙️ Real-Time AI Voice Agent
+### <img src="https://raw.githubusercontent.com/anythingcodes/slack-emoji-for-techies/gh-pages/emoji/mic-drop.png" width="26"/> Real-Time AI Voice Agent
 
-> *LiveKit · Google STT · Vertex AI · Google TTS · Python*
+> *LiveKit · Google STT · Vertex AI (Gemini 2.0 Flash) · Google TTS*
 
-Built a full **STT → LLM → TTS** voice pipeline that listens, thinks, and responds — all in **under 3 seconds**. The agent handles live WebRTC audio streams, event-driven processing, real-time interruptions, and tool calls (weather lookups mid-conversation).
+Built a full **STT → LLM → TTS** voice pipeline from scratch. The agent listens via WebRTC, reasons with Gemini, calls live tools mid-conversation (weather, news), and responds — all in **under 3 seconds end-to-end**.
 
-The kind of system that makes people go *"wait, is that a real person?"*
+Handles real-time audio streaming, event-driven processing, and live interruptions. The kind of system that makes people go *"wait, is that actually an AI?"*
 
 </td>
 <td width="50%" valign="top">
 
-### 📄 RAG Pipeline
+### <img src="https://raw.githubusercontent.com/anythingcodes/slack-emoji-for-techies/gh-pages/emoji/chrome-dino.png" width="26"/> RAG Pipeline
 
 > *FastAPI · LLMs · Vector Search · Python*
 
-A **document-based Retrieval-Augmented Generation** system — ingests, chunks, embeds, and retrieves docs using semantic search, then feeds precise context to an LLM for accurate Q&A.
+A **document-based Retrieval-Augmented Generation** system — ingests, chunks, embeds, and semantically retrieves docs, then feeds precise context to an LLM for accurate Q&A.
 
-Built the full backend: ingestion APIs, embedding generation, and query-based retrieval. Currently in the process of hardening it for production. Ships soon™.
+Built the full backend: ingestion APIs, embedding generation, and query retrieval. Currently productionizing — tightening performance and shipping a proper UI on top.
 
 </td>
 </tr>
@@ -121,12 +130,15 @@ Built the full backend: ingestion APIs, embedding generation, and query-based re
 
 ---
 
-## 📈 github stats
+## 📊 github stats
 
 <div align="center">
 
 ![Abhiram's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abhirampatil&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhirampatil&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Abhirampatil&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -134,6 +146,10 @@ Built the full backend: ingestion APIs, embedding generation, and query-based re
 
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/anythingcodes/slack-emoji-for-techies/gh-pages/emoji/nyancat.gif" width="60"/>
+
 *open to backend & AI engineering roles — always down to chat 🤝*
+
+*Emoji credits: [slack-emoji-for-techies](https://github.com/anythingcodes/slack-emoji-for-techies)*
 
 </div>
