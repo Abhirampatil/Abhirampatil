@@ -1,27 +1,12 @@
 <div align="center">
 
-<!-- Animated header banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:70a5fd&height=200&section=header&text=hey,%20I'm%20Abhiram%20👾&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=backend%20engineer%20%7C%20ai%20systems%20%7C%20real-time%20everything&descAlignY=58&descSize=18&descColor=a9b1d6&animation=fadeIn"/>
-
-<!-- Animated typing SVG -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=70A5FD&center=true&vCenter=true&width=600&lines=CS+Undergrad+%40+MIT+WPU+%F0%9F%8E%93;Backend+Engineer+%2B+AI+Builder+%F0%9F%94%A7;Real-Time+Voice+Systems+%F0%9F%8E%99%EF%B8%8F;RAG+Pipelines+%2B+LLM+Integrations+%F0%9F%A7%A0;Always+shipping+something+new+%F0%9F%9A%80" alt="Typing SVG" />
-</a>
+<!-- Custom hand-coded animated SVG header — no capsule-render -->
+<img src="https://raw.githubusercontent.com/Abhirampatil/Abhirampatil/main/header.svg" width="100%" alt="Abhiram Patil"/>
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhiram-codes)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhirampatil2005@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abhirampatil)
-
-<br/>
-
-<!-- Animated snake contribution graph -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abhirampatil/Abhirampatil/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abhirampatil/Abhirampatil/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Abhirampatil/Abhirampatil/output/github-contribution-grid-snake-dark.svg">
-</picture>
+<!-- Typing SVG — cycles through roles -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=70A5FD&center=true&vCenter=true&width=550&lines=CS+Undergrad+%40+MIT+WPU+%F0%9F%8E%93;Backend+Engineer+%2B+AI+Builder+%F0%9F%94%A7;Real-Time+Voice+Systems+%F0%9F%8E%99%EF%B8%8F;RAG+Pipelines+%2B+LLM+Integrations+%F0%9F%A7%A0;Always+shipping+something+new+%F0%9F%9A%80" alt="Typing SVG"/>
 
 </div>
 
@@ -44,9 +29,22 @@ abhiram = {
 
 ## <img src="https://raw.githubusercontent.com/anythingcodes/slack-emoji-for-techies/gh-pages/emoji/partyparrot.gif" width="32"/> what i'm working on
 
-Taking my **RAG prototype to production** — tightening the document ingestion pipeline, optimizing embeddings, and making semantic retrieval fast enough that nobody notices the AI is thinking.
+Taking my **RAG prototype to production** — tightening the document ingestion pipeline,
+optimizing embeddings, and making semantic retrieval fast enough that nobody notices the AI is thinking.
 
 Also exploring smarter chunking strategies and hybrid search (dense + sparse vectors) to push retrieval accuracy further. Ships soon™.
+
+---
+
+## <img src="https://raw.githubusercontent.com/anythingcodes/slack-emoji-for-techies/gh-pages/emoji/dancerduck.gif" width="36"/> find me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhiram-codes)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhirampatil2005@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abhirampatil)
+
+</div>
 
 ---
 
@@ -141,19 +139,34 @@ Built the full backend: ingestion APIs, embedding generation, and query retrieva
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Abhirampatil&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhirampatil&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+<!-- Stats + Languages side by side -->
+<img src="https://github-readme-stats.vercel.app/api?username=Abhirampatil&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhirampatil&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=Abhirampatil&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" width="49%"/>
+<!-- Streak stats -->
+<img src="https://streak-stats.demolab.com?user=Abhirampatil&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" width="55%"/>
 
 <br/><br/>
 
-<!-- Activity graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhirampatil&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
+<!-- 🆕 Isometric 3D contribution calendar — nobody's friend has this -->
+<!-- To generate: add the metrics GitHub Action (see setup guide below) -->
+<img src="https://raw.githubusercontent.com/Abhirampatil/Abhirampatil/main/metrics.plugin.isocalendar.svg" alt="Isometric contribution calendar" width="55%"/>
 
-<!-- Profile views counter -->
+<br/>
+
+<!-- Activity graph with area fill -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhirampatil&theme=tokyo-night&hide_border=true&area=true&area_color=70a5fd" width="95%"/>
+
+<br/>
+
+<!-- GitHub Trophies — another tier up -->
+<img src="https://github-profile-trophy.vercel.app/?username=Abhirampatil&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1" width="95%"/>
+
+<br/>
+
+<!-- Live profile views counter -->
 ![Profile Views](https://komarev.com/ghpvc/?username=Abhirampatil&color=70a5fd&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
@@ -165,9 +178,6 @@ Built the full backend: ingestion APIs, embedding generation, and query retrieva
 <img src="https://raw.githubusercontent.com/anythingcodes/slack-emoji-for-techies/gh-pages/emoji/nyancat.gif" width="80"/>
 
 *open to backend & AI engineering roles — always down to chat 🤝*
-
-<!-- Animated footer wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:70a5fd,100:0d1117&height=120&section=footer"/>
 
 </div>
 
