@@ -1,0 +1,90 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="220" viewBox="0 0 900 220">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0d1117"/>
+      <stop offset="50%" style="stop-color:#0f1923"/>
+      <stop offset="100%" style="stop-color:#0d1117"/>
+    </linearGradient>
+    <linearGradient id="textGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#70a5fd"/>
+      <stop offset="50%" style="stop-color:#bf91f3"/>
+      <stop offset="100%" style="stop-color:#70a5fd"/>
+      <animateTransform attributeName="gradientTransform" type="translate" values="-1 0;1 0;-1 0" dur="4s" repeatCount="indefinite"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="softglow">
+      <feGaussianBlur stdDeviation="8" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="900" height="220" fill="url(#bg)" rx="12"/>
+
+  <!-- Animated grid lines -->
+  <g opacity="0.08" stroke="#70a5fd" stroke-width="0.5">
+    <line x1="0" y1="44" x2="900" y2="44"><animate attributeName="opacity" values="0.08;0.15;0.08" dur="3s" repeatCount="indefinite"/></line>
+    <line x1="0" y1="88" x2="900" y2="88"><animate attributeName="opacity" values="0.15;0.08;0.15" dur="3s" repeatCount="indefinite"/></line>
+    <line x1="0" y1="132" x2="900" y2="132"><animate attributeName="opacity" values="0.08;0.15;0.08" dur="3.5s" repeatCount="indefinite"/></line>
+    <line x1="0" y1="176" x2="900" y2="176"><animate attributeName="opacity" values="0.15;0.08;0.15" dur="3.5s" repeatCount="indefinite"/></line>
+    <line x1="150" y1="0" x2="150" y2="220"><animate attributeName="opacity" values="0.08;0.14;0.08" dur="4s" repeatCount="indefinite"/></line>
+    <line x1="300" y1="0" x2="300" y2="220"><animate attributeName="opacity" values="0.14;0.08;0.14" dur="4s" repeatCount="indefinite"/></line>
+    <line x1="450" y1="0" x2="450" y2="220"><animate attributeName="opacity" values="0.08;0.14;0.08" dur="4.5s" repeatCount="indefinite"/></line>
+    <line x1="600" y1="0" x2="600" y2="220"><animate attributeName="opacity" values="0.14;0.08;0.14" dur="4.5s" repeatCount="indefinite"/></line>
+    <line x1="750" y1="0" x2="750" y2="220"><animate attributeName="opacity" values="0.08;0.14;0.08" dur="5s" repeatCount="indefinite"/></line>
+  </g>
+
+  <!-- Floating orbs -->
+  <circle cx="80" cy="60" r="40" fill="#70a5fd" opacity="0.04" filter="url(#softglow)">
+    <animate attributeName="cy" values="60;80;60" dur="6s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.04;0.07;0.04" dur="6s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="820" cy="150" r="55" fill="#bf91f3" opacity="0.04" filter="url(#softglow)">
+    <animate attributeName="cy" values="150;130;150" dur="7s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.04;0.08;0.04" dur="7s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="450" cy="200" r="30" fill="#70a5fd" opacity="0.03" filter="url(#softglow)">
+    <animate attributeName="cy" values="200;185;200" dur="5s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- Blinking cursor dots -->
+  <circle cx="30" cy="30" r="4" fill="#70a5fd">
+    <animate attributeName="opacity" values="1;0;1" dur="1.5s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="46" cy="30" r="4" fill="#bf91f3">
+    <animate attributeName="opacity" values="1;0;1" dur="1.5s" begin="0.5s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="62" cy="30" r="4" fill="#a9b1d6">
+    <animate attributeName="opacity" values="1;0;1" dur="1.5s" begin="1s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- Main name text -->
+  <text x="450" y="105" font-family="'Courier New', monospace" font-size="52" font-weight="bold"
+        fill="url(#textGrad)" text-anchor="middle" filter="url(#glow)" letter-spacing="2">
+    Abhiram Patil
+    <animate attributeName="opacity" values="0;1" dur="1.2s" fill="freeze"/>
+  </text>
+
+  <!-- Subtitle -->
+  <text x="450" y="145" font-family="'Courier New', monospace" font-size="16"
+        fill="#a9b1d6" text-anchor="middle" letter-spacing="3" opacity="0">
+    backend engineer  ·  ai systems  ·  real-time everything
+    <animate attributeName="opacity" values="0;0.85" dur="1.2s" begin="0.6s" fill="freeze"/>
+  </text>
+
+  <!-- Animated underline -->
+  <line x1="250" y1="158" x2="250" y2="158" stroke="#70a5fd" stroke-width="1.5" opacity="0.6">
+    <animate attributeName="x2" values="250;650" dur="1s" begin="1s" fill="freeze"/>
+    <animate attributeName="opacity" values="0;0.6" dur="0.3s" begin="1s" fill="freeze"/>
+  </line>
+
+  <!-- Bottom tag line -->
+  <text x="450" y="195" font-family="'Courier New', monospace" font-size="12"
+        fill="#70a5fd" text-anchor="middle" opacity="0" letter-spacing="1">
+    &lt;  building things that actually work  /&gt;
+    <animate attributeName="opacity" values="0;0.7" dur="0.8s" begin="1.5s" fill="freeze"/>
+  </text>
+</svg>
