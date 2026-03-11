@@ -1,28 +1,12 @@
 <div align="center">
 
-<!-- Animated header banner -->
+<!-- Animated waving header -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:70a5fd&height=200&section=header&text=hey,%20I'm%20Abhiram%20👾&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=backend%20engineer%20%7C%20ai%20systems%20%7C%20real-time%20everything&descAlignY=58&descSize=18&descColor=a9b1d6&animation=fadeIn"/>
 
 <!-- Animated typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=70A5FD&center=true&vCenter=true&width=600&lines=CS+Undergrad+%40+MIT+WPU+%F0%9F%8E%93;Backend+Engineer+%2B+AI+Builder+%F0%9F%94%A7;Real-Time+Voice+Systems+%F0%9F%8E%99%EF%B8%8F;RAG+Pipelines+%2B+LLM+Integrations+%F0%9F%A7%A0;Always+shipping+something+new+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=70A5FD&center=true&vCenter=true&width=600&lines=CS+Undergrad+%40+MIT+WPU+%F0%9F%8E%93;Backend+Engineer+%2B+AI+Builder+%F0%9F%94%A7;Real-Time+Voice+Systems+%F0%9F%8E%99%EF%B8%8F;RAG+Pipelines+%2B+LLM+Integrations+%F0%9F%A7%A0;Always+shipping+something+new+%F0%9F%9A%80" alt="Typing SVG"/>
 </a>
-
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhiram-codes)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhirampatil2005@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abhirampatil)
-
-<br/>
-
-<!-- Animated snake contribution graph -->
-<!-- <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abhirampatil/Abhirampatil/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abhirampatil/Abhirampatil/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Abhirampatil/Abhirampatil/output/github-contribution-grid-snake-dark.svg">
-</picture> -->
 
 </div>
 
@@ -50,7 +34,6 @@ Taking my **RAG prototype to production** — tightening the document ingestion 
 Also exploring smarter chunking strategies and hybrid search (dense + sparse vectors) to push retrieval accuracy further. Ships soon™.
 
 ---
-
 
 ## <img src="https://raw.githubusercontent.com/anythingcodes/slack-emoji-for-techies/gh-pages/emoji/dancerduck.gif" width="36"/> find me
 
@@ -164,8 +147,20 @@ Built the full backend: ingestion APIs, embedding generation, and query retrieva
 
 <br/><br/>
 
+<!-- Isometric 3D contribution calendar -->
+<img src="https://raw.githubusercontent.com/Abhirampatil/Abhirampatil/main/metrics.plugin.isocalendar.svg" alt="Isometric contribution calendar" width="55%"/>
+
+<br/>
+
 <!-- Activity graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhirampatil&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
+
+<br/>
+
+<!-- Trophies -->
+<img src="https://github-profile-trophy.vercel.app/?username=Abhirampatil&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1" width="95%"/>
+
+<br/>
 
 <!-- Profile views counter -->
 ![Profile Views](https://komarev.com/ghpvc/?username=Abhirampatil&color=70a5fd&style=for-the-badge&label=PROFILE+VIEWS)
@@ -180,7 +175,7 @@ Built the full backend: ingestion APIs, embedding generation, and query retrieva
 
 *open to backend & AI engineering roles — always down to chat 🤝*
 
-<!-- Animated footer wave -->
+<!-- Animated waving footer -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:70a5fd,100:0d1117&height=120&section=footer"/>
 
 </div>
