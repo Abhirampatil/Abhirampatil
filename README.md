@@ -4,9 +4,9 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:70a5fd&height=200&section=header&text=hey,%20I'm%20Abhiram%20👾&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=backend%20engineer%20%7C%20ai%20systems%20%7C%20real-time%20everything&descAlignY=58&descSize=18&descColor=a9b1d6&animation=fadeIn"/>
 
 <!-- Animated typing SVG -->
-<a href="https://git.io/typing-svg">
+<!-- <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=70A5FD&center=true&vCenter=true&width=600&lines=CS+Undergrad+%40+MIT+WPU+%F0%9F%8E%93;Backend+Engineer+%2B+AI+Builder+%F0%9F%94%A7;Real-Time+Voice+Systems+%F0%9F%8E%99%EF%B8%8F;RAG+Pipelines+%2B+LLM+Integrations+%F0%9F%A7%A0;Always+shipping+something+new+%F0%9F%9A%80" alt="Typing SVG" />
-</a>
+</a> -->
 
 <br/>
 
@@ -47,6 +47,19 @@ abhiram = {
 Taking my **RAG prototype to production** — tightening the document ingestion pipeline, optimizing embeddings, and making semantic retrieval fast enough that nobody notices the AI is thinking.
 
 Also exploring smarter chunking strategies and hybrid search (dense + sparse vectors) to push retrieval accuracy further. Ships soon™.
+
+---
+
+
+## <img src="https://raw.githubusercontent.com/anythingcodes/slack-emoji-for-techies/gh-pages/emoji/dancerduck.gif" width="36"/> find me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhiram-codes)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhirampatil2005@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abhirampatil)
+
+</div>
 
 ---
 
