@@ -27,7 +27,7 @@
 ```python
 abhiram = {
     "university":    "MIT World Peace University",
-    "degree":        "B.Tech Computer Science",
+    "degree":        "BSc Computer Science",
     "focus":         ["Backend Engineering", "AI Systems", "Real-Time Applications"],
     "currently":     "Shipping a RAG system to production 🚢",
     "ask_me_about":  ["FastAPI", "LLM integrations", "WebRTC", "voice pipelines"],
